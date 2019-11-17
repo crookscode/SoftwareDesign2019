@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"textAnalyzer","l":"FileReader"},{"p":"textAnalyzer","l":"TextAnalyzerMain"},{"p":"textAnalyzer","l":"TextAnalyzerTest"}]
